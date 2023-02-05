@@ -2,7 +2,7 @@
 
 <img src="https://www.helloimg.com/images/2023/02/02/oZLhl9.jpg" width = "400"/>
 
-### 💍演示成品机器人:[@sisChatBot](https://t.me/sisChatBot)
+### 💍成品演示机器人:[@sisChatBot](https://t.me/sisChatBot)
 ## 事前准备🛡️
 - 申请Telegram bot api token : https://t.me/BotFather
 - 获取[OpenAi apiKey](https://platform.openai.com/account/api-keys)
