@@ -38,4 +38,5 @@
     pm2 start index.js
    ```
 
-   [![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https%3A%2F%2Fgithub.com%2Fhobk%2Fchatgpt-telebot%2F)
+> 本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
+   [![EdgeOne](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)](https://edgeone.ai/zh?from=github)
